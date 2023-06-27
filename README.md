@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evelysousa
-- 👀 I’m interested in Python, ddatabases, frameworks and educational technologies. 
+- 👀 I’m interested in Python, databases,data science, frameworks and educational technologies. 
 - 🌱 I’m currently learning Python...
 - 📫 Reach me by linkedin: http://linkedin.com/in/evely-sousa-prof-matematica
 
